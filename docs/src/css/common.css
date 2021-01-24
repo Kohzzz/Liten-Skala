@@ -1,28 +1,36 @@
 body {
 	background-color: #3d3d44;
 	color: #ffffff;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
-.main {
+main {
 	font-size: 1.5em;
 	font-family: sans-serif;
+  flex: 1;
 }
 
-.main h1 {
+html {
+  height: 100%;
+}
+
+main h1 {
 	font-size: 3em;
 	font-family: serif;
 }
 
-.main h2 {
+main h2 {
 	font-size: 2.5em;
 	font-family: serif;
 }
 
-.main h2 {
+main h2 {
 	font-size: 2em;
 	font-family: serif;
 }
 
-.main p {
+main p {
 	margin-left: 1em;
 }
