@@ -1,7 +1,7 @@
 footer {
 	display: flex;
 	width: 100%;
-	background-color: #505e64;
+	background-color: #635140;
   align-items: center;
   color: #e6dcdc;
 }
@@ -16,5 +16,5 @@ a {
 
 a:link { color: #e6dcdc; }
 a:visited { color: #e6dcdc; }
-a:hover { color: #b6dcdd; }
+a:hover { color: #c5cccc; }
 a:active { color: #e6dcdc; }
