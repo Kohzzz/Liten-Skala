@@ -15,6 +15,7 @@
 	height: auto;
 	margin: 2%;
 	flex-direction: column;
+	text-align:center;
 }
 
 .member-info {
