@@ -10,7 +10,7 @@
 }
 
 .member-title {
-	display:felex;
+	display: flex;
 	width: auto;
 	height: auto;
 	margin: 2%;
