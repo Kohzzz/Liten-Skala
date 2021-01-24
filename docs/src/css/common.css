@@ -4,25 +4,25 @@ body {
 }
 
 .main {
-	font-size: 3em;
+	font-size: 1.5em;
 	font-family: sans-serif;
 }
 
 .main h1 {
-	font-size: 6em;
+	font-size: 3em;
 	font-family: serif;
 }
 
 .main h2 {
-	font-size: 5em;
+	font-size: 2.5em;
 	font-family: serif;
 }
 
 .main h2 {
-	font-size: 4.5em;
+	font-size: 2em;
 	font-family: serif;
 }
 
 .main p {
-	margin-left: 2.5em;
+	margin-left: 1em;
 }
