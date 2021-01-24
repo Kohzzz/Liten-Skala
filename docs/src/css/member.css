@@ -13,12 +13,14 @@
 	width: 8%;
 	height: auto;
 	float: left;
+	margin: 2%;
 }
 
 .member-info {
 	width: 50%;
 	height: auto;
 	float: right;
+	margin: 2%;
 }
 
 .member-icon {
