@@ -1,0 +1,20 @@
+fooder {
+	display: flex;
+	width: 100%;
+	background-color: #505e64;
+  align-items: center;
+  color: #e6dcdc;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link { color: #e6dcdc; }
+a:visited { color: #e6dcdc; }
+a:hover { color: #b6dcdd; }
+a:active { color: #e6dcdc; }
