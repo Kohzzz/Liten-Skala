@@ -10,13 +10,13 @@
 }
 
 .member-title {
-	width: 6em;
+	width: 8%;
 	height: auto;
 	float: left;
 }
 
 .member-info {
-	width: auto;
+	width: 75%;
 	height: auto;
 	float: right;
 }
