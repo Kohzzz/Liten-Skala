@@ -1,0 +1,40 @@
+.member {
+	border: 6px #cccccc;
+	border-radius: 0.75em;
+	background-color: #444444;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+.member-title {
+	width: 6em;
+	float: left;
+}
+
+.member-info {
+	width: auto;
+	float: right;
+}
+
+.member-icon {
+	width: 5em;
+	height: 5em;
+}
+
+.member-name {
+	size: 2em
+}
+
+.member-description {
+	size: 1.5em
+}
+
+.member-link {
+	size: 1.5em
+}
+
+.member-link a:link { color: #43c2d8; };
+.member-link a:visited { color: #43c2d8; };
+.member-link a:hover { color: #a1eeee; };
+.member-link a:active { color: #43c2d8; };
