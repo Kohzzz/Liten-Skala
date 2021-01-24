@@ -32,11 +32,15 @@
 }
 
 .member-description {
-	size: 1.5em
+	size: 1.5em;
+	width: auto;
+	height: auto;
 }
 
 .member-link {
-	size: 1.5em
+	size: 1.5em;
+	width: auto;
+	height: auto;
 }
 
 .member-link a:link { color: #43c2d8; };
