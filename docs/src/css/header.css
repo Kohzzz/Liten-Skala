@@ -15,6 +15,11 @@ header {
   text-decoration: none;
 }
 
+.team-logo {
+  width: 20vw;
+  height: 5vw;
+}
+
 .menu {
 	overflow: hidden;
 	list-style: none;
