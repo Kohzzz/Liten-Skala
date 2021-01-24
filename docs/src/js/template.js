@@ -11,9 +11,9 @@ function header(rootDir){
     });
 }
 
-function fooder(rootDir){
+function footer(rootDir){
     $.ajax({
-        url: rootDir + "fooder.html",
+        url: rootDir + "footer.html",
         cache: false,
         async: false,
         dataType: "html",
