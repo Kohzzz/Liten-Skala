@@ -38,8 +38,8 @@ main p {
 }
 
 .button {
-	border: 2px outset #65e9ee;
-	background-color: #5bdee2;
+	border: 0.5em outset #33babe;
+	background-color: #2db0b4;
 	border-radius: 10px;
 	color: #ffffff;
 	text-decoration: none;
