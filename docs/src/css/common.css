@@ -36,3 +36,8 @@ main h2 {
 main p {
 	margin-left: 1em;
 }
+
+a:link { color: #6ed5e7; };
+a:visited { color: #6ed5e7; };
+a:hover { color: #78bebe; };
+a:active { color: #6ed5e7; };

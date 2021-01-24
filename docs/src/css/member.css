@@ -51,8 +51,3 @@
 	height: auto;
 	vertical-align: top;
 }
-
-.member-link a:link { color: #6ed5e7; };
-.member-link a:visited { color: #6ed5e7; };
-.member-link a:hover { color: #78bebe; };
-.member-link a:active { color: #6ed5e7; };
