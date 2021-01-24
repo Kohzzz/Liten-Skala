@@ -17,6 +17,7 @@ footer ul {
 footer li {
   text-align: center;
   float: left;
+  margin: 1em;
 }
 
 footer ul li a {
