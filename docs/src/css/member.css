@@ -10,18 +10,14 @@
 }
 
 .member-title {
-	display: flex;
 	width: auto;
 	height: auto;
-	justify-content: left;
 	margin: 2%;
 }
 
 .member-info {
-	display: flex;
 	width: auto;
 	height: auto;
-	justify-content: right;
 	margin: 2%;
 }
 
