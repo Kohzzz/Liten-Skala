@@ -27,7 +27,8 @@
 }
 
 .member-name {
-	size: 2em
+	size: 2em;
+	text-align: center;
 }
 
 .member-description {
