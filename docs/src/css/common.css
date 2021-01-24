@@ -9,7 +9,9 @@ body {
 main {
 	font-size: 1.5em;
 	font-family: sans-serif;
-  flex: 1;
+	flex: 1;
+	margin-left: 2em;
+	margin-right: 2em;
 }
 
 html {
