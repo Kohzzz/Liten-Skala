@@ -26,12 +26,14 @@
 }
 
 .member-icon {
+	display: flex;
 	width: 10rem;
 	height: 10rem;
 	vertical-align: top;
 }
 
 .member-name {
+	display: flex;
 	size: 2em;
 	width: 10rem;
 	text-align: center;
@@ -39,6 +41,7 @@
 }
 
 .member-description {
+	display: flex;
 	size: 1.5em;
 	width: auto;
 	height: auto;
@@ -46,6 +49,7 @@
 }
 
 .member-link {
+	display: flex;
 	size: 1.5em;
 	width: auto;
 	height: auto;
