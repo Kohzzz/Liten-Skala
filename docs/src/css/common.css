@@ -38,11 +38,12 @@ main p {
 }
 
 .button {
-	border: 0.5em outset #33babe;
+	border: 0.25em outset #33babe;
 	background-color: #2db0b4;
 	border-radius: 10px;
 	color: #ffffff;
 	text-decoration: none;
+	margin: 0.3em;
 }
 
 a:link { color: #6ed5e7; };
