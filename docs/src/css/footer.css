@@ -6,15 +6,15 @@ footer {
   color: #e6dcdc;
 }
 
-ul {
+footer ul {
   list-style-type: none;
 }
 
-a {
+footer ul li a {
   text-decoration: none;
 }
 
-a:link { color: #e6dcdc; }
-a:visited { color: #e6dcdc; }
-a:hover { color: #c5cccc; }
-a:active { color: #e6dcdc; }
+footer ul li a:link { color: #e6dcdc; }
+footer ul li a:visited { color: #e6dcdc; }
+footer ul li a:hover { color: #c5cccc; }
+footer ul li a:active { color: #e6dcdc; }
