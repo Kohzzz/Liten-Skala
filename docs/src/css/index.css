@@ -13,3 +13,8 @@
 	margin-left: 1em;
 	width: auto;
 }
+
+.news{
+	list-style: none;
+	size: 1.5em;
+}
