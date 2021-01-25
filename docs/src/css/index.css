@@ -12,10 +12,14 @@
 	margin: 0.5em;
 }
 
-.sub-message {
+.sub-message-border {
 	border: 2px solid #929596;
 	margin-left: 1em;
 	width: auto;
+}
+
+.sub-message {
+	margin: 0.5em;
 }
 
 .news{
