@@ -61,6 +61,11 @@ main p {
 	margin: 0.4em;
 }
 
+.button:hover {
+	border: 0.25em outset #1391cc;
+	background-color: #1589be;
+}
+
 a:link { color: #6ed5e7; };
 a:visited { color: #6ed5e7; };
 a:hover { color: #78bebe; };
