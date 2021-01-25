@@ -10,11 +10,9 @@
 }
 
 .member-title {
-	display: flex;
 	width: auto;
 	height: auto;
 	margin: 2%;
-	flex-direction: column;
 	text-align:center;
 }
 
@@ -30,9 +28,7 @@
 }
 
 .member-name {
-	size: 2em;
-	width: 10rem;
-	max-width: auto;
+	margin: auto;
 }
 
 .member-description {
