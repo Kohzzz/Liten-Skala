@@ -1,0 +1,15 @@
+.index-main {
+	display: flex;
+}
+
+.main-message {
+	border: 2px solid #d3e6e9;
+	margin-right: 1em;
+	width: auto;
+}
+
+.sub-message {
+	border: 2px solid #d3e6e9;
+	margin-left: 1em;
+	width: auto;
+}
