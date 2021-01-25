@@ -19,17 +19,17 @@ html {
 }
 
 main h1 {
-	font-size: 3em;
-	font-family: serif;
-}
-
-main h2 {
 	font-size: 2.5em;
 	font-family: serif;
 }
 
 main h2 {
-	font-size: 2em;
+	font-size: 2.2em;
+	font-family: serif;
+}
+
+main h3 {
+	font-size: 1.8em;
 	font-family: serif;
 }
 
