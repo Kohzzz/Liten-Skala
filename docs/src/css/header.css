@@ -42,6 +42,12 @@ header {
   text-decoration: none;
   display:inline-block;
 }
+
+.menu-button:link { color: #ffffff; }
+.menu-button:visited { color: #ffffff; }
+.menu-button:hover { color: #ddf2f3; }
+.menu-button:active { color: #ffffff; }
+
 .menu-button::before {
   content: '';
   position: absolute;
@@ -60,6 +66,7 @@ header {
   -webkit-transition: transform 0.2s cubic-bezier(1, 0, 0, 1);
   transition: transform 0.2s cubic-bezier(1, 0, 0, 1)
 }
+
 .menu-button:hover::before {
   -webkit-transform-origin: left top;
   -ms-transform-origin: left top;
