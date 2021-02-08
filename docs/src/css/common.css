@@ -52,6 +52,12 @@ main p {
 	margin-left: 1em;
 }
 
+a { color: #6ed5e7; }
+a:link { color: #6ed5e7; }
+a:visited { color: #6ed5e7; }
+a:hover { color: #78bebe; }
+a:active { color: #6ed5e7; }
+
 .button {
 	border: 0.25em outset #1183b8;
 	background-color: #0f77a7;
@@ -64,10 +70,10 @@ main p {
 .button:hover {
 	border: 0.25em outset #1391cc;
 	background-color: #1589be;
+	color: #78bebe;
 }
 
-a { color: #6ed5e7; }
-a:link { color: #6ed5e7; }
-a:visited { color: #6ed5e7; }
-a:hover { color: #78bebe; }
-a:active { color: #6ed5e7; }
+.button { color: #6ed5e7; }
+.button:link { color: #6ed5e7; }
+.button:visited { color: #6ed5e7; }
+.button:active { color: #6ed5e7; }
