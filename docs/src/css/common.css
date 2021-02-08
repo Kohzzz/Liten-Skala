@@ -70,10 +70,10 @@ a:active { color: #6ed5e7; }
 .button:hover {
 	border: 0.25em outset #1391cc;
 	background-color: #1589be;
-	color: #78bebe;
+	color: #ddfafa;
 }
 
-.button { color: #6ed5e7; }
-.button:link { color: #6ed5e7; }
-.button:visited { color: #6ed5e7; }
-.button:active { color: #6ed5e7; }
+.button { color: #ffffff; }
+.button:link { color: #ffffff; }
+.button:visited { color: #ffffff; }
+.button:active { color: #ffffff; }
