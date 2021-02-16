@@ -10,7 +10,7 @@ footer ul {
   overflow: hidden;
 }
 
-footer li {
+footer ul li {
   text-align: center;
   display: inline-block;
   margin-left: 0.5em;
