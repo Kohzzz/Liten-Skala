@@ -34,3 +34,13 @@ footer div {
 .copyright {
   font-size: 0.8em;
 }
+
+.sns-links {
+  margin: 0.5em;
+}
+
+.sns-logo {
+  width: 2em;
+  height: 2em;
+  margin: 1em;
+}
