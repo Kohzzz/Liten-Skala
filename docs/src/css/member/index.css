@@ -31,6 +31,11 @@
 	margin: auto;
 }
 
+.member-name a { color: #ffffff; }
+.member-name a:link { color: #ffffff; }
+.member-name a:visited { color: #ffffff; }
+.member-name a:active { color: #ffffff; }
+
 .member-description {
 	size: 1.5em;
 	width: auto;
