@@ -64,7 +64,8 @@ a:active { color: #6ed5e7; }
 	border-radius: 10px;
 	color: #ffffff;
 	text-decoration: none;
-	margin: 0.4em;
+	margin: 0.6em;
+	padding: 0.3em
 }
 
 .button:hover {
