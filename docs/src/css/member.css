@@ -35,6 +35,7 @@
 	size: 1.5em;
 	width: auto;
 	height: auto;
+	margin: 0.5em;
 }
 
 .member-link {
@@ -43,4 +44,5 @@
 	height: auto;
 	color: #4cdadf;
 	margin-top: 0.5em;
+	margin-top: 1em;
 }
