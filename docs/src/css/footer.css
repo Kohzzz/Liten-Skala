@@ -30,3 +30,7 @@ footer ul li a:active { color: #e6dcdc; }
 footer div {
   text-align: center;
 }
+
+.copyright {
+  font-size: 0.8em;
+}
