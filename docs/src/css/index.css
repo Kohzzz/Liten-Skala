@@ -27,10 +27,16 @@
 	size: 1.5em;
 }
 
-.news h3 a {
+.news-div h3 a {
 	color: #ffffff;
 	text-decoration: underline;
 }
+.news-div h3 a:link { color: #ffffff; }
+.news-div h3 a:visited { color: #ffffff; }
+.news-div h3 a:hover { color: #ffffff; }
+.news-div h3 a:active { color: #ffffff; }
+
+.news h3 a { color: #ffffff; }
 .news h3 a:link { color: #ffffff; }
 .news h3 a:visited { color: #ffffff; }
 .news h3 a:hover { color: #ffffff; }
