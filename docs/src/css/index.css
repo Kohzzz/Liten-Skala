@@ -26,3 +26,12 @@
 	list-style: none;
 	size: 1.5em;
 }
+
+.news h3 a {
+	color: #ffffff;
+	text-decoration: underline;
+}
+.news h3 a:link { color: #ffffff; }
+.news h3 a:visited { color: #ffffff; }
+.news h3 a:hover { color: #ffffff; }
+.news h3 a:active { color: #ffffff; }
