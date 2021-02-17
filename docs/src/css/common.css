@@ -56,7 +56,10 @@ main p {
 	margin-left: 1em;
 }
 
-a { color: #6ed5e7; }
+a {
+	 color: #6ed5e7;
+	 text-decoration: none;
+}
 a:link { color: #6ed5e7; }
 a:visited { color: #6ed5e7; }
 a:hover { color: #78bebe; }
