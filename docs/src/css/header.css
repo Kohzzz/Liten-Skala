@@ -1,7 +1,7 @@
 header {
 	display: flex;
 	width: 100%;
-	height: 100px;
+	height: auto;
 	background-color: #0f77a7;
 	align-items: center;
 }
